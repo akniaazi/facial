@@ -1,6 +1,6 @@
-Flask
-Flask-RESTful
-face_recognition
-Flask-JWT
-Flask-SQLAlchemy
-uwsgi
+# Flask
+# Flask-RESTful
+# face_recognition
+# Flask-JWT
+# Flask-SQLAlchemy
+# uwsgi
